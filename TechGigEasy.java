@@ -1,7 +1,5 @@
 package TechGig;
 
-import icsV1dot1.Time;
-
 public class TechGigEasy {
 
 	public static void main(String[] args) {
